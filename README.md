@@ -1,0 +1,3 @@
+The [Zipf distribution](http://en.wikipedia.org/wiki/Zipf's_law) describes, among other things, the frequenccy of words in a language. This is a Python project that implements a random number generator, where the numbers follow the Zipf distribution. A Tk GUI is provided that can generate large samples and show their means alongside the theoretical mean.
+
+The program depends on numpy, scipy and matplotlib.
